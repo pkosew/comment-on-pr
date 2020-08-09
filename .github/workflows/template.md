@@ -1,3 +1,11 @@
-losowy tekst
+commands to checkout to this branch
 
-więcej tekstu
+```
+git fetch upstream pull/{pull_id}/head:{branch_name}
+git checkout {branch_name}
+```
+
+
+```json
+{"aaa":"bbb"}
+```
